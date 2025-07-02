@@ -17,24 +17,25 @@ A synthetic health and lifestyle dataset was analyzed using Python. The project 
 ## Procedures
 1. **Load and inspect the dataset**  
    Understand the structure, identify missing values, and explore column types.
+https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis/blob/main/Health_Lifestyle_Analysis.ipynb
 
-2. **Perform exploratory data analysis (EDA)**  
+3. **Perform exploratory data analysis (EDA)**  
    Visualize key patterns in age, BMI, sleep hours, and other health indicators.
 
-3. **Feature engineering**  
+4. **Feature engineering**  
    - Create a BMI category feature  
    - Calculate a simple lifestyle risk score from smoking, alcohol, and exercise
 
-4. **Preprocess data**  
+5. **Preprocess data**  
    - Encode categorical variables  
    - Handle missing values using median/mode imputation
 
-5. **Train a classification model**  
+6. **Train a classification model**  
    Use a Random Forest Classifier to predict the presence of chronic disease.
 
-6. **Evaluate model performance**  
+7. **Evaluate model performance**  
    Analyze confusion matrix, precision, recall, and feature importance.
 
-7. **Visual summary**  
+8. **Visual summary**  
    Include key plots such as lifestyle score vs. disease presence.
    
