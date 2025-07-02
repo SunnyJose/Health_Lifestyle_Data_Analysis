@@ -38,4 +38,5 @@ https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis/blob/main/Health_Lif
 
 8. **Visual summary**  
    Include key plots such as lifestyle score vs. disease presence.
+   https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis/blob/main/Health_Lifestyle_Analysis.ipynb
    
